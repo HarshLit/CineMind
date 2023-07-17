@@ -5,7 +5,7 @@ import { useNavigate } from "react-router-dom";
 import "./style.scss";
 
 import ContentWrapper from "../../../components/contentWrapper/ContentWrapper";
-import Img from "../../../components/lazyLoadImage/Img";
+import Img from "../../../components/lazyLoadImage/img.jsx";
 import avatar from "../../../assets/avatar.png";
 
 const Cast = ({ data, loading }) => {
