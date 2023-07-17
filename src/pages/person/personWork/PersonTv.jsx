@@ -1,7 +1,6 @@
 import React from 'react'
 import { useParams } from 'react-router-dom'
 
-import Carousel from '../../../components/carousel/Carousel'
 import useFetch from '../../../hooks/useFetch'
 import PersonTvCarousel from '../../../components/Carousel/PersonTvCarousel'
 
