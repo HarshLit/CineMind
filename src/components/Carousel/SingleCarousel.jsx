@@ -6,7 +6,7 @@ import {
 import { useSelector } from "react-redux";
 
 import ContentWrapper from "../contentWrapper/ContentWrapper";
-import Img from "../lazyLoadImage/Img";
+import Img from "../lazyLoadImage/img.jsx";
 import PosterFallback from "../../assets/no-poster.png";
 
 import "./style.scss";

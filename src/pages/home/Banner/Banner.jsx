@@ -6,7 +6,7 @@ import "./style.scss"
 
 import useFetch from '../../../hooks/useFetch';
 
-import Img from '../../../components/lazyLoadImage/img'
+import Img from '../../../components/lazyLoadImage/img.jsx'
 import ContentWrapper from '../../../components/contentWrapper/ContentWrapper'
 
 const Banner = () => {

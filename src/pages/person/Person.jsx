@@ -1,8 +1,5 @@
 import React from 'react'
-import useFetch from '../../hooks/useFetch'
-import { useParams } from 'react-router-dom'
 
-import ContentWrapper from '../../components/contentWrapper/ContentWrapper'
 import PersonBanner from './personBanner/PersonBanner'
 import PersonMovie from './personWork/PersonMovie'
 import PersonTv from './personWork/PersonTv'
