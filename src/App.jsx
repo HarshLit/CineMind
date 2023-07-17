@@ -10,7 +10,7 @@ import Footer from "./components/footer/Footer"
 import Details from "./pages/details/Details"
 import Explore from "./pages/explore/Explore"
 import Home from "./pages/home/Home"
-import PageNotFound from './pages/404/pageNotFound';
+import PageNotFound from './pages/404/PageNotFound';
 import SearchResult from './pages/searchResult/SearchResult';
 import Person from "./pages/person/Person"
 
